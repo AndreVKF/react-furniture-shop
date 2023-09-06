@@ -4,7 +4,7 @@ Furniture landing page and e-commerce.
 
 ## Access Link
 
-https://eshop-lxdi.onrender.com
+https://furniture-shop-4i94.onrender.com/
 
 ## Functionalities
 
